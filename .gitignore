@@ -1,3 +1,4 @@
 # Excludes
 *.o
 *.tar.gz
+./strudlwm
